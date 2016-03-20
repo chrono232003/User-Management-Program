@@ -1,0 +1,9 @@
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\bin\Debug\Lance 03192016.exe.config
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\bin\Debug\Lance 03192016.exe
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\bin\Debug\Lance 03192016.pdb
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\obj\Debug\Lance 03192016.csprojResolveAssemblyReference.cache
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\obj\Debug\Lance_03192016.Form1.resources
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\obj\Debug\Lance_03192016.Properties.Resources.resources
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\obj\Debug\Lance 03192016.csproj.GenerateResource.Cache
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\obj\Debug\Lance 03192016.exe
+C:\Users\LanceI\Desktop\test\Lance 03192016\Lance 03192016\obj\Debug\Lance 03192016.pdb
